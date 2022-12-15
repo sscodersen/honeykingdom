@@ -1,0 +1,11 @@
+query SphrexStats {
+  globalProtocolStats(request: { sources: "Sphrex" }) {
+    totalProfiles
+    totalPosts
+    totalBurntProfiles
+    totalMirrors
+    totalComments
+    totalCollects
+    totalFollows
+  }
+}

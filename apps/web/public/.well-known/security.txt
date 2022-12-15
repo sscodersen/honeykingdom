@@ -1,0 +1,6 @@
+Contact: https://github.com/sphrexxyz/sphrex/security/advisories/new
+Expires: 2022-12-31T18:29:00.000Z
+Acknowledgments: https://github.com/sphrexxyz/sphrex/security/advisories?state=published
+Preferred-Languages: en
+Canonical: https://sphrex.xyz/.well-known/security.txt
+Policy: https://github.com/sphrexxyz/sphrex/security/policy
