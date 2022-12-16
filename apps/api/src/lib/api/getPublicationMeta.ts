@@ -112,7 +112,7 @@ const getPublicationMeta = async (req: NextApiRequest, res: NextApiResponse, id:
               profile?.picture?.uri ??
               `https://avatar.tobi.sh/${profile?.ownedBy}_${profile?.handle}.png`
           )}`
-        : 'https://assets.sphrex.xyz/images/og/logo.jpeg';
+        : 'https://assets.sphrex.xyz/images/og/logo.png';
 
       return res
         .setHeader('Content-Type', 'text/html')

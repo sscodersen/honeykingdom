@@ -35,7 +35,7 @@ export const XMTP_PREFIX = 'lens.dev/dm';
 export const APP_NAME = 'Sphrex';
 export const DESCRIPTION =
   'Sphrex is a composable, decentralized, and permissionless social media web app built with Lens Protocol 🌿';
-export const DEFAULT_OG = 'https://assets.sphrex.xyz/images/og/logo.jpeg';
+export const DEFAULT_OG = 'https://assets.sphrex.xyz/images/og/logo.png';
 export const APP_VERSION = packageJson.version;
 
 // Git
